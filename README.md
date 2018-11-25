@@ -1,0 +1,2 @@
+# bogos
+my pages repository
